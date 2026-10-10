@@ -220,6 +220,17 @@ These destinations represent the strongest relative export opportunities based o
 
 ---
 
+
+## Repository Notes
+
+- Some large intermediate datasets were excluded from this repository due to GitHub file size limitations.
+- Temporary RStudio files such as `.RData`, `.Rhistory`, `.RDataTmp`, and `.Rproj.user` were intentionally excluded.
+- All reports, scripts, figures, and supporting materials required to review the assessment are included.
+- Intermediate datasets can be regenerated using the provided scripts and referenced data sources.
+
+---
+
+
 ## Reproducibility
 
 All analysis was completed in R using:
